@@ -1,0 +1,15 @@
+{
+	"name": "AshishADF1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a09c3d2b-b56b-4041-a6b6-153d5969013f",
+		"tenantId": "24ce36ad-9035-4009-b744-11e85c36fec1"
+	}
+}
